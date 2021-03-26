@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me : Contact @aryan.kenchappagol@gmail.com
 - 🧾 Technical Content Blogs [here](https://aryan-kenchappagol.medium.com/)
+- ![Visitor Count](https://profile-counter.glitch.me/{aryanxk02}/count.svg)
 <!---
 aryanxk02/aryanxk02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
